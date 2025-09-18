@@ -72,3 +72,10 @@ layout: default
 3.  **Wi-Fi依赖**：大部分酒店、餐厅和别墅都提供免费Wi-Fi。你可以把手机卡当成一个移动热点补充，没必要购买过于庞大的数据套餐。
 
 　　最后，带上一个取卡针（或者回形针应急）和一个小袋子用来存放原来的SIM卡，这些小事能避免很多不必要的麻烦。祝你在开曼的阳光与海风中，永远在线，畅享互联！
+
+<!-- crosslink -->
+---
+
+## 相关指南
+
+- [Cayman Islands eSIM/流量卡价格与覆盖](https://azpetavircava.github.io/cayman-islands-data-plans)
